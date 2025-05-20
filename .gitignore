@@ -513,7 +513,4 @@ CrtWebFarm
 
 AtfTIDE
 CrtUserLevelSchema
-CrtCustomer360AI/Files/CrtCustomer360AI.csproj
-CrtCustomer360AI/Files/Directory.Build.props
-CrtCustomer360AI/Files/Directory.Build.targets
-CrtCustomer360AI/Files/NuGet/Migrations/1
+CrtCustomer360AI
