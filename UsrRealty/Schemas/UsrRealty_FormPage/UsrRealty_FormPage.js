@@ -184,7 +184,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
-				"name": "UsrName",
+				"name": "Name",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
@@ -318,7 +318,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
-				"name": "ComboBox_56xumln",
+				"name": "Country",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
@@ -351,13 +351,13 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						"params": {}
 					}
 				},
-				"parentName": "ComboBox_56xumln",
+				"parentName": "Country",
 				"propertyName": "listActions",
 				"index": 0
 			},
 			{
 				"operation": "insert",
-				"name": "ComboBox_ygda3mj",
+				"name": "Manager",
 				"values": {
 					"layoutConfig": {
 						"column": 2,
@@ -391,13 +391,13 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						"params": {}
 					}
 				},
-				"parentName": "ComboBox_ygda3mj",
+				"parentName": "Manager",
 				"propertyName": "listActions",
 				"index": 0
 			},
 			{
 				"operation": "insert",
-				"name": "ComboBox_wqb0v2l",
+				"name": "City",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
@@ -430,13 +430,13 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						"params": {}
 					}
 				},
-				"parentName": "ComboBox_wqb0v2l",
+				"parentName": "City",
 				"propertyName": "listActions",
 				"index": 0
 			},
 			{
 				"operation": "insert",
-				"name": "Input_gzvgxoe",
+				"name": "Number",
 				"values": {
 					"layoutConfig": {
 						"column": 2,
@@ -456,7 +456,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
-				"name": "Input_sajlpj3",
+				"name": "Comment",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
@@ -480,7 +480,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
-				"name": "ComboBox_ats1n21",
+				"name": "Stage",
 				"values": {
 					"layoutConfig": {
 						"column": 2,
@@ -513,7 +513,7 @@ define("UsrRealty_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						"params": {}
 					}
 				},
-				"parentName": "ComboBox_ats1n21",
+				"parentName": "Stage",
 				"propertyName": "listActions",
 				"index": 0
 			},

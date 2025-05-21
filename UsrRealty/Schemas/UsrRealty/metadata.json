@@ -1,7 +1,7 @@
 = MetaData.Schema.UId "4c9dbdc3-06c8-4c32-866a-a9ca7a6989aa"
 = MetaData.Schema.A2 "UsrRealty"
 = MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
-= MetaData.Schema.B6 "2f178cfb-b158-4c8c-8dad-928597e7087c"
+= MetaData.Schema.B6 "8c2e9f40-b3f2-4752-8730-832a5ddda3e7"
 = MetaData.Schema.EG1.UId "35ed072d-b64b-48d9-a321-be185b27409b"
 = MetaData.Schema.EG1.A2 "UsrRealtyEventsProcess"
 = MetaData.Schema.EG1.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
@@ -49,8 +49,7 @@
   "A3": "4c9dbdc3-06c8-4c32-866a-a9ca7a6989aa",
   "A4": "4c9dbdc3-06c8-4c32-866a-a9ca7a6989aa",
   "A5": "b346bd16-b453-47b0-b1f2-adc845be51a7",
-  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
-  "E25": true
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
 }
 + MetaData.Schema.D2 {
   "UId": "bca98117-edb4-5a12-ea96-44f46fe8db03",
@@ -94,7 +93,8 @@
   "A3": "4c9dbdc3-06c8-4c32-866a-a9ca7a6989aa",
   "A4": "4c9dbdc3-06c8-4c32-866a-a9ca7a6989aa",
   "A5": "b346bd16-b453-47b0-b1f2-adc845be51a7",
-  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "E2": 1
 }
 + MetaData.Schema.D2 {
   "UId": "caf80b67-12ff-818c-f421-25fb49e25abf",
@@ -102,7 +102,8 @@
   "A3": "4c9dbdc3-06c8-4c32-866a-a9ca7a6989aa",
   "A4": "4c9dbdc3-06c8-4c32-866a-a9ca7a6989aa",
   "A5": "b346bd16-b453-47b0-b1f2-adc845be51a7",
-  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "E2": 1
 }
 + MetaData.Schema.D2 {
   "UId": "970cdb6b-f3ef-c559-ee56-8b44bb92cb99",
